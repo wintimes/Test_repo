@@ -1,7 +1,6 @@
 ﻿# Gemini V2（CAN）的配置流程
 **全程参考官网：** [mellow.klipper.cn](https://mellow.klipper.cn/)
 
-==r==
 
 本文提供了<font style="background:yellow">软件</font>，<font style="background:yellow">镜像</font>，以及编译好的<font style="background:yellow">klipper固件</font>,方便一次性下载。
 
